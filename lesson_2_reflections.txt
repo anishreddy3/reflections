@@ -29,4 +29,7 @@ What is the result of merging two branches together? Why do we represent it in t
 The result of merging two branches is a nice way to combine a specific feature on which we were working
 with the master branch so that everything is in a single file.
 
- 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Doing merges automatically will help us determine if there are any conflicts between different brnaches and
+we can modify to resolve the conflicts. 

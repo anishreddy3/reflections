@@ -13,3 +13,13 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 The staging area is a nice feature to make sure we make commits only for a logic change and acts 
 as a nice intermediate between working directory and repository.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are very helful when you decide to try some experimental features on your program but keeping the previous
+work saved so that you wouldn't have to loose your progress till that moment.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams were really helpful in making me realize the pattern of commit log and the working of branches
+in the git workspace.

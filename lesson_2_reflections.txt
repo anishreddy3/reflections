@@ -23,3 +23,10 @@ How do the diagrams help you visualize the branch structure?
 
 The diagrams were really helpful in making me realize the pattern of commit log and the working of branches
 in the git workspace.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches is a nice way to combine a specific feature on which we were working
+with the master branch so that everything is in a single file.
+
+ 

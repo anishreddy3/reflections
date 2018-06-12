@@ -14,3 +14,10 @@ Forks are used when we clone a branch on git hub servers whereas clone is used t
 gitub to local systems or create another copy on the local system. Branches are used to label commits
 and are used to create separate versions of the code for different purposes.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It is benefecial to have a copy of the last known state of the remote stored locally as we can
+edit conflicting ideas from different people while merging and make it match our requirements.
+
+
+
